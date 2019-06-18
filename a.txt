@@ -1,0 +1,41 @@
+<!DOCTYPE html> 
+<html> 
+  <head> 
+    <title>homework_two</title>
+  </head>
+<style> 
+  .header { 
+    font-style: italic;
+    text-align: center;
+  } 
+  
+  .learn { 
+    font-weight: bold;
+  } 
+  
+  .sites { 
+    font-size: 25; 
+    font-family: Helvetica;
+  }
+</style>
+<h1 class="header">An intro to making web pages:</h1> 
+The structure of web pages is made using HTML, or hypertext markup language. 
+HTML is what turns text into the structured webpages you see today and allows 
+computers to use hyperlinks to direct users into other web pages. So, knowing 
+HTML is an essential skill to anyone interested in creating websites.
+
+<h1 class ="learn">Where can I learn HTML?</h1> 
+<p class="sites">For learning HTML, I recommend the following:</p>
+<a target = "_blank" href="https://www.theodinproject.com">The Odin Project:</a>  
+The odin project is a compilation of free internet sources dedicated to teaching web development. The odin project teaches users how to work and setup a terminal, the place to type 
+commands into the computer in addition to teaching html. It also has guides on how to use 
+<a target = "_blank" href="https://github.com/">github</a>, a very common tool used to build and organize portfolios of code. 
+<hr />
+<a target="_blank" href="https://codecademy.com">Codecademy:</a> Codecademy is a 
+site with courses that cover much more than just HTML. The courses introduce
+a concept, then ask the user to complete a task that applies the concept. Only
+part of each Codecademy course is free; the rest requires a paid membership. 
+<hr />
+<div>Any site: You can view the source html of any site, through the methods 
+found <a target ="_blank"href="https://www.computerhope.com/issues/ch000746.htm">here</a>
+</div>
